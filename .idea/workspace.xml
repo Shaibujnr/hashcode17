@@ -19,8 +19,8 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
-              <caret line="81" column="34" lean-forward="true" selection-start-line="81" selection-start-column="34" selection-end-line="81" selection-end-column="34" />
+            <state relative-caret-position="18">
+              <caret line="34" column="36" lean-forward="false" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -101,8 +101,8 @@
       <file leaf-file-name="knapsack.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/knapsack.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="78" column="18" lean-forward="false" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
+            <state relative-caret-position="54">
+              <caret line="59" column="4" lean-forward="false" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -129,8 +129,8 @@
         <option value="$PROJECT_DIR$/matz.out" />
         <option value="$PROJECT_DIR$/solve.py" />
         <option value="$PROJECT_DIR$/tt.out" />
-        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/knapsack.py" />
+        <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
   </component>
@@ -1014,16 +1014,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/knapsack.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="78" column="18" lean-forward="false" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
+        <state relative-caret-position="54">
+          <caret line="59" column="4" lean-forward="false" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="81" column="34" lean-forward="true" selection-start-line="81" selection-start-column="34" selection-end-line="81" selection-end-column="34" />
+        <state relative-caret-position="18">
+          <caret line="34" column="36" lean-forward="false" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
           <folding />
         </state>
       </provider>

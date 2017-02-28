@@ -56,7 +56,7 @@ def subset_sum(items,val):
 
 
 def knapsack(items):
-    items.sort(key=lambda x: x.weight)  # sort item in ascending order by weight
+    # items.sort(key=lambda x: x.weight)  # sort item in ascending order by weight
     table = [[-1 for x in range(W + 1)] for y in range(len(lot))]  # create knapsack table
     for row in range(len(table)):
         ci = items[row]
